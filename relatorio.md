@@ -121,3 +121,5 @@ Os resultados obtidos destacam a aplicabilidade de ambas as técnicas na identif
    - Ambas as técnicas desempenham papéis complementares na análise de dados: o K-Médias para agrupamento e o PCA para redução de dimensionalidade e visualização.  
    - Os resultados refletem a eficácia de métodos de aprendizado não supervisionado na exploração e interpretação de padrões em conjuntos de dados.
 
+## **5. Repositório**
+  [Repositório no GitHub - K-Médias e PCA](https://github.com/Aldenor-Neto/Reconhecimento_de_padroes-Lista06-K-M-dias_e_PCA)
